@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\svets\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\svets\\.nuget\\packages"
+    ]
+  }
+}
