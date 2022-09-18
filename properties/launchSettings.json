@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "EVEOver": {
+      "commandName": "Project",
+      "hotReloadEnabled": false,
+      "nativeDebugging": false
+    }
+  }
+}
